@@ -1,0 +1,26 @@
+.todos .todos__todo {
+  border: solid 1px #ccc;
+  list-style: none;
+  padding: 10px;
+  margin-bottom: 1px;
+  width: 422px;
+}
+.todos .todos__title {
+  display: inline-block;
+  width: 300px;
+}
+
+.todos .todos__title-new {
+  display: inline-block;
+  border: solid 1px #ccc;
+  padding-right: 10px;
+}
+
+.todos .todos__delete {
+  display: inline-block;
+  width: 100px;
+}
+
+.todos .todos__delete-form {
+  display: inline-block;
+}
