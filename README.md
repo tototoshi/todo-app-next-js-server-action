@@ -18,7 +18,7 @@ $ npm run dev
 
 ```bash
 $ cd backend
-$ make servea
+$ make serve
 ```
 
 3. open http://localhost:3000
